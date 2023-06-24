@@ -7,7 +7,7 @@
 
 - 🔭I'm current student at KNUST **University at Ghana**
 
-- 👨‍💻 All of my projects are (https://abudusamad.github.io/mastech.github.io/))
+- 👨‍💻 All of my projects are (https://abudusamad.github.io/mastech.github.io/)
 
 - 📫 How to reach me **abudusamadu@yahoo.com**
 
