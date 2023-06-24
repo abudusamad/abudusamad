@@ -7,7 +7,7 @@
 
 - 🔭I'm current student at KNUST **University at Ghana**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abudusamad/Portfolio](https://github.com/abudusamad/Portfolio)
+- 👨‍💻 All of my projects are (https://abudusamad.github.io/mastech.github.io/))
 
 - 📫 How to reach me **abudusamadu@yahoo.com**
 
