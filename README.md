@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mascotford" target="blank"><img src="https://img.shields.io/twitter/follow/@mascotford?logo=twitter&style=for-the-badge" alt="@mascotford" /></a> </p>
 
-- 🔭I'm current student at KNUST **University at Ghana**
+- 🔭I'm current student at KNUST at Ghana**
 
 - 👨‍💻 All of my projects are (https://abudusamad.github.io/mastech.github.io/)
 
