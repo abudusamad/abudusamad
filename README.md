@@ -30,7 +30,6 @@
 <a href="https://mastech.hashnode.dev" target="_blank" rel="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
 </p>
 
-<hr/>
 
 
 
@@ -46,7 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abudusamad&" alt="abudusamad" /></p>
 
-<hr/>
 
 
 
