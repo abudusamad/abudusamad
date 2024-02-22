@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Abudu Samadu</h1>
 <h3 align="center">I am full-stack web development and embedded system developer</h3>
-<h3 aliagn="center">🔭I'm current student at KNUST in Ghana </h3>
+<h3 align="center">🔭I'm current student at KNUST in Ghana </h3>
 
 <hr>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
