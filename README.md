@@ -5,12 +5,23 @@
 
 <h1 align="center">Hi 👋, I'm Abudu Samadu</h1>
 <h3 align="center">I am full-stack web development and embedded system developer</h3>
+- 🔭I'm current student at KNUST in Ghana
+
+<hr>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
+
+I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
+
+I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
+
+
 
 
 
 <p align="left"> <a href="https://twitter.com/@mascotford" target="blank"><img src="https://img.shields.io/twitter/follow/@mascotford?logo=twitter&style=for-the-badge" alt="@mascotford" /></a> </p>
 
-- 🔭I'm current student at KNUST in Ghana
 
 - 📫 How to reach me **abudusamadu@yahoo.com**
 
