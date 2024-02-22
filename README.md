@@ -20,10 +20,7 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 
 
 
-<p align="left"> <a href="https://twitter.com/@mascotford" target="blank"><img src="https://img.shields.io/twitter/follow/@mascotford?logo=twitter&style=for-the-badge" alt="@mascotford" /></a> </p>
 
-
-- 📫 How to reach me **abudusamadu@yahoo.com**
 
 <hr/>
 
@@ -41,6 +38,7 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 <a href="https://mastech.hashnode.dev" target="_blank" rel="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
 </p>
 
+- 📫 How to reach me **abudusamadu@yahoo.com**
 
 <hr/>
 
