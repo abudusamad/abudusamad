@@ -17,16 +17,7 @@ I'm a well organized person very passionate and dedicated to my work. I'm used t
 I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
 
 
-
-
-
-
-
 <hr/>
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,25 +33,7 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 
 <hr/>
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-          <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />  </a>      
-          <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />  </a>
-          <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"  width="36" height="36" alt="Python" /> </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> </a>
-          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /> </a>
-     
-  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" width="36" height="36" alt="Arduino" /> </a>
-
-       
-</p>
-
-
-
-
-   
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abudusamad&show_icons=true&locale=en&layout=compact" alt="abudusamad" /></p
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abudusamad&" alt="abudusamad" /></p>
 
